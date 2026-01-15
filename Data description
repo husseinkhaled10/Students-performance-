@@ -1,0 +1,68 @@
+The dataset consists of 20,000 rows and 13 columns, representing student academic and behavioral data.
+It is designed to analyze the key factors that influence student performance, including demographics, attendance, sleep habits, study methods, and learning environment quality.
+
+Original Columns
+
+The dataset includes the following core attributes:
+
+Student_ID – Unique identifier for each student
+
+Age – Student age
+
+Gender – Student gender
+
+Course – Academic course or subject
+
+Sleep_Hours – Average number of hours slept per day
+
+Class_Attendance – Student class attendance percentage
+
+Sleep_Quality – Self-reported quality of sleep
+
+Study_Method – Primary study method used by the student
+
+Facility_Rate – Rating of educational facilities
+
+Exam_Difficulty – Difficulty level of the exam
+
+Exam_Score – Final exam score
+
+Created coulmns (Added for Analysis)
+
+To enhance analytical depth and support better behavioral insights, additional derived columns were created:
+
+# Age Group
+
+Student ages were categorized into four age groups to better understand performance patterns and behavioral differences across different age ranges.
+
+# Attendance Rate
+
+Class attendance was grouped into three performance-based categories:
+
+Low Attendance: Less than 50%
+
+Medium Attendance: Between 50% and 75%
+
+High Attendance: Above 75%
+
+This categorization helps evaluate the relationship between attendance consistency and exam performance.
+
+# Sleep Time Category
+
+Sleep duration was classified to better assess the impact of sleep habits on academic outcomes:
+
+bad Sleep: Less than 6 hours
+
+Great Sleep: Between 6 and 8 hours
+
+Over Sleep: More than 8 hours
+
+Purpose of created coulmns
+
+These features enable:
+
+Clearer behavioral segmentation of students
+
+Improved comparison across age, attendance, and sleep patterns
+
+More meaningful insights into the drivers of academic success
