@@ -85,7 +85,7 @@ Comparison of study methods
 
 Students with high attendance achieve significantly higher average scores.
 
-Coaching method is the best study methode with high impact on the student .
+Coaching method is the best study method with high impact on the student .
 
 Better sleep quality is associated with improved academic performance.
 
