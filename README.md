@@ -115,8 +115,6 @@ Explore dashboard screenshots in this repository
 
 Review insights and findings in this README
 
-(Optional) View live dashboard via Power BI Service (if shared)
-
 📄 License
 
 This project is licensed under the MIT License.
