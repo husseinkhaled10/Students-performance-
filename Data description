@@ -1,4 +1,4 @@
-The dataset consists of 20,000 rows and 13 columns, representing student academic and behavioral data.
+The dataset consists of 20,000 rows and 11 columns, representing student academic and behavioral data.
 It is designed to analyze the key factors that influence student performance, including demographics, attendance, sleep habits, study methods, and learning environment quality.
 
 Original Columns
