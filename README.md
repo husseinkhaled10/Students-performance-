@@ -125,4 +125,6 @@ Hussein Khaled
 Aspiring Data Analyst | Power BI | Data Analytics
 🔗 LinkedIn: www.linkedin.com/in/hussein-khaled93
 
+![General overview](https://github.com/user-attachments/assets/26593c77-5268-4558-a7b5-e0837715add1)
+
 
