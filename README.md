@@ -127,4 +127,6 @@ Aspiring Data Analyst | Power BI | Data Analytics
 
 ![General overview](https://github.com/user-attachments/assets/26593c77-5268-4558-a7b5-e0837715add1)
 
+![academic_analysis](https://github.com/user-attachments/assets/54b6a197-213a-4b0f-bd5e-8ca749b5bcdc)
+![behavior_analysis](https://github.com/user-attachments/assets/9e7f6932-00fc-4501-a756-e360e97f3432)
 
